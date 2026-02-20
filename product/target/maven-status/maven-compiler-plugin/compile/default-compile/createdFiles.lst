@@ -1,0 +1,4 @@
+com\kce\entity\Product.class
+com\kce\main\MainApp.class
+com\kce\dao\ProductDAO.class
+com\kce\util\HibernateUtil.class
